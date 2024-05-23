@@ -1,0 +1,11 @@
+print("MY Biodata")
+nama_lengkap= input("Nama Lengkap:")
+alamat= input("Alamat:")
+Umur= input("Umur:")
+Jurusan= input("Jurusan:")
+
+print("\nBerikut Isi Biodata Saya\n")
+print("Nama   : " + nama_lengkap)
+print("Alamat : " + alamat)
+print("Umur   : " + Umur + " Tahun")
+print("Jurusan: "+ Jurusan)
