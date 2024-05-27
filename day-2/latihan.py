@@ -17,6 +17,7 @@
 
 nilai = int(input("Masukkan nilai anda : "))
 
+
 #konversi
 if nilai > 100 or nilai < 0:
     print("Nilai Tidak valid")
